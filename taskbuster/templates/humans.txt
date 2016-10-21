@@ -3,13 +3,16 @@
 
 # TEAM
 
-    <name> -- <role> -- <twitter>
+    <Sandeep Mallela> -- <Manager of projects> -- <@sam-ror>
 
 # THANKS
 
-    <name>
+    Thanks Marina Mele for this tutorial. It helps a lot of developers to start of with django & python.
 
 # TECHNOLOGY COLOPHON
 
-    HTML5, CSS3
-    jQuery, Modernizr
+    Django
+    Python
+    Mysql
+    HTML5 Boilerplate
+    Twitter Bootstrap
